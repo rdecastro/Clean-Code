@@ -11,4 +11,4 @@ Method Names
 
 
 References
-- Clean Code, A Handbook of Agile Software Craftmanship, Robert C. Martin 
+- Clean Code: A Handbook of Agile Software Craftmanship by Robert C. Martin 
